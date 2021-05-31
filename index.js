@@ -13,6 +13,5 @@ const randomColor = () =>  {
 
 changeColor.addEventListener('click', () => 
    body.style.background = randomColor()
-
 )
 
